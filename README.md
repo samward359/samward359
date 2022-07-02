@@ -19,9 +19,5 @@ We demand rigidly defined areas of doubt and uncertainty!
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/sam-ward42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/samuel-w-96ba07221" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 #### 
 ![](https://komarev.com/ghpvc/?username=sam-ward42&color=red)
