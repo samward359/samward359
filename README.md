@@ -1,8 +1,6 @@
 Hi 👋 My name is Samuel Ward
 ============================
 
-We demand rigidly defined areas of doubt and uncertainty!
-
 ### Skills
 
 <p align="left">
