@@ -1,5 +1,10 @@
+<h1 align="center">
 Hi 👋 My name is Samuel Ward
-============================
+</h1>
+
+<p align="center">
+A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.
+</p>
 
 ---
 
