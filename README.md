@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1 align="left">
 Hey there 👋
 </h1>
 
 <figure>
-  <blockquote align="center">
+  <blockquote align="left">
   "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools" - Douglas Adams
   </blockquote>
 </figure>
@@ -11,10 +11,12 @@ Hey there 👋
 ---
 
 ### About Me
-Hey! I'm Sam.
+I spend most of my time with web development. Usually in ASP .NET or PHP. I want to get more into web apps and perhaps desktop apps too. I'm not the most competent of designers but that doesn't usually stop me. I occasionally dabble in game dev and vfx from time to time. I'm also fascinated with the ever-evolving world of "AI" tools as well as the complex world of cyber security
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,php,html,css,js,sass,bootstrap&perline=4)](https://skillicons.dev)
+### Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,php,html,css,js,sass,bootstrap,figma&perline=4)](https://skillicons.dev)
 
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=laravel,docker,cs,dotnet&perline=4)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blindninja616&layout=compact&theme=dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
