@@ -11,7 +11,7 @@ Hey there 👋
 ---
 
 ### About Me
-Hey! I'm Sam. I'm a developer. I mainly develop web apps
+Hey! I'm Sam.
 
 ### Languages and Tools:
 
