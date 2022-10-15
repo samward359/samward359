@@ -19,4 +19,4 @@ I spend most of my time with web development. Usually in ASP .NET or PHP. I want
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=laravel,docker,cs,dotnet&perline=4)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blindninja616&layout=compact&bg_color=00000000&theme=dark&text_color=ffffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blindninja616&layout=compact&bg_color=#24292f&theme=dark&text_color=ffffffff)](https://github.com/anuraghazra/github-readme-stats)
