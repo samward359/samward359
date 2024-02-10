@@ -11,7 +11,9 @@ Hey there 👋
 ---
 
 ### About Me
-I spend most of my time with web development. Usually in ASP .NET or PHP. I want to get more into web apps and perhaps desktop apps too. I'm not the most competent of designers but that doesn't usually stop me. I occasionally dabble in game dev and vfx from time to time. I'm also fascinated with the ever-evolving world of "AI" tools as well as the complex world of cyber security
+I'm a full stack developer predominately creating websites/web apps in .NET and C#. 
+
+I love tinkering with new tools and technologies and I'm planning to get more into Linux and C++ development in the future.
 
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,py,php,html,css,js,sass,bootstrap,figma&perline=6)](https://skillicons.dev)
