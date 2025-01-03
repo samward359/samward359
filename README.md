@@ -21,4 +21,6 @@ I love tinkering with new tools and technologies and I'm planning to get more in
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=laravel,docker,graphql,java,linux,&perline=6)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blindninja616&layout=compact&bg_color=24292f&theme=dark&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samward359&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samward359&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
