@@ -2,11 +2,13 @@
 Hey there 👋
 </h1>
 
+<!--
 <figure>
   <blockquote align="left">
   "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools" - Douglas Adams
   </blockquote>
 </figure>
+-->
 
 ---
 
