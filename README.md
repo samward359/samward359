@@ -15,7 +15,7 @@ Hey there 👋
 ### About Me
 I'm a full stack developer predominately creating websites/web apps in .NET and C#. 
 
-I love tinkering with new tools and technologies and I'm planning to get more into Linux and C++ development in the future.
+I love tinkering with new tools and technologies.
 
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,py,php,html,css,js,sass,bootstrap,figma&perline=6)](https://skillicons.dev)
