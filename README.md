@@ -17,6 +17,8 @@ I'm a full stack developer predominately creating websites/web apps in .NET and 
 
 I love tinkering with new tools and technologies.
 
+Get lost Luke
+
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,py,php,html,css,js,sass,bootstrap,figma&perline=6)](https://skillicons.dev)
 
